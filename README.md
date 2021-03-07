@@ -21,6 +21,8 @@ The purpose of this analysis is to be able to identify the amount of plays that 
 
 ### 1.2 Tools
 - Excel
+ * Pivot Tables
+ * Line Chart
 
 ## 2.0 Analysis_and_Challenges
 ### 2.1 Theater Outcomes by Launch Date
