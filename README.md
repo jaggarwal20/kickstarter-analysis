@@ -28,7 +28,7 @@ The purpose of this analysis is to be able to identify the amount of plays that 
 ### 2.1 Theater Outcomes by Launch Date
 The analysis for “Theater Outcomes by Launch Date” was created by first editing the time stamps from Unix to a short date, and then creating a pivot table to aggregate the data.  By translating the Unix time stamp to short date using the following formula: 
 
-`=(((I2/60)/60)/24)+DATE(1970,1,1)`.
+`=((("Unix Date"/60)/60)/24)+DATE(1970,1,1)`.
 
 ### 2.2 Outcomes Based on Goals
 
