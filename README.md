@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends
 
 ## Table of Contents
-- [1.0 Introduction]
+- [1.0 Introduction](#1.0 Introduction)
   * [1.1 Purpose]
   * [1.2 Tools]
 - [2.0 Analysis and Challanges]
