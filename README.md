@@ -13,7 +13,7 @@ Performing analysis on Kickstarter data to uncover trends
   * 3.2 Outcomes Based on Goals
 - [4.0 Resources](#Resources)
 
-
+<a name="Introduction"/>
 ## 1.0 Introduction
 ### 1.1 Purpose
 Louise wants to analyise how plays how different campaigns compared to their launch date and goals.
