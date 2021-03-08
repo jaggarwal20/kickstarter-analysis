@@ -54,7 +54,7 @@ The peak months, April to August, are when the most theaters met or exceeded the
 The availability of data limited the analysis, as data from 2009 to 2013 only contianed successful plays.  The data could also be displayed in a bar chart.
 
 ### 3.2 Outcomes Based on Goals
-The successful vs failed plays has an inverse relationship when split into goal ranges. Plays are successful for goals that are under $1500 and meet at an intersect where majority of the plays failed till $35,000.  Plays were more successful from $35,000 to $50,000, and beyond that the plays have a higher rate to fail than succeed.  
+The percentage of successful vs failed plays has an inverse relationship when split into goal ranges. Plays are successful for goals that are under $1500 and meet at an intersect where majority of the plays failed till $35,000.  Plays were more successful from $35,000 to $50,000, and beyond that the plays have a higher rate to fail than succeed.  
 ![alt test](Resources/Outcomes_vs_Goals.png)
 
 The data has limitations as the currency for each goal varies globally, and the data was not coverted into a standard currency to properly compare the range of successful, failed, and canceled plays.  The data could be dispalyed in a stacked percentage bar chart, or multiple pie charts. 
