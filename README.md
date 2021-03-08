@@ -46,9 +46,12 @@ The main challenges were copying the row ranges correctly into the Excel file.  
 
 ## 3.0 Results
 ### 3.1 Theater Outcomes by Launch Date
-The peak months, April to August, are when the most theaters met or exceeded their goal. 
+The peak months, April to August, are when the most theaters met or exceeded their goal. The maximum number of plays is in the month of May, and the ratio of successful vs failed is also the greatest in May and June.  From 2009 - 2013 all the plays were successful and then there is a sharp increase in the total number of plays after that.
+
+The availability of data limited the data, as data from 2009 to 2013 only contianed successful plays.  
 
 ### 3.2 Outcomes Based on Goals
+The successful vs failed plays has an inverse relationship when split into goal ranges. Plays are successful for goals that are under $1500 and meet at an intersect where majority of the plays failed till $35,000.  Plays were more successful from $35,000 to $50,000, and beyond that the plays have a higher rate to fail than succeed.  
 
 ## 4.0 Resources
 exceljet.net - learn how to write a countifs statement
