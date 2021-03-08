@@ -30,7 +30,7 @@ The analysis for “Theater Outcomes by Launch Date” was created by first edit
 
 `=((("Unix Date"/60)/60)/24)+DATE(1970,1,1)`. 
 A pivot table was created to display the outcome of the theaters based off of the month that they were launched. 
-![alt text](
+![alt text](Resources/Pivot_Table.png)
 
 ### 2.2 Outcomes Based on Goals
 
