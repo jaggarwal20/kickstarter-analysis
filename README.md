@@ -47,6 +47,7 @@ The main challenges were copying the row ranges correctly into the Excel file.  
 ## 3.0 Results
 ### 3.1 Theater Outcomes by Launch Date
 The peak months, April to August, are when the most theaters met or exceeded their goal. The maximum number of plays is in the month of May, and the ratio of successful vs failed is also the greatest in May and June.  From 2009 - 2013 all the plays were successful and then there is a sharp increase in the total number of plays after that.
+![alt test](Resources/Theater_Outcomes_vs_Launch.png)
 
 The availability of data limited the data, as data from 2009 to 2013 only contianed successful plays.  
 
