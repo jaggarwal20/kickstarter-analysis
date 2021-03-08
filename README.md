@@ -53,6 +53,8 @@ The availability of data limited the data, as data from 2009 to 2013 only contia
 
 ### 3.2 Outcomes Based on Goals
 The successful vs failed plays has an inverse relationship when split into goal ranges. Plays are successful for goals that are under $1500 and meet at an intersect where majority of the plays failed till $35,000.  Plays were more successful from $35,000 to $50,000, and beyond that the plays have a higher rate to fail than succeed.  
+![alt test](Resources/Outcomes_vs_Goals.png)
+
 
 ## 4.0 Resources
 exceljet.net - learn how to write a countifs statement
