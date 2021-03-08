@@ -41,6 +41,8 @@ The analysis for "Outcomes Based on Goals" was created by creating a table in a 
 
 The totals were converted to percentages to be able to compare the goal ranges on a common scale. 
 The main challenges were copying the row ranges correctly into the Excel file.  Initially a row was missed, which caused the sum of two goal ranges to be combined, which caused the interval to change. Another challenge was having the correct "Countifs" statement written.  After refrencing a exceljet I was able to properly formulate the formula with multiple conditions.  
+![alt test](Resources/Outcomes_Goals_Chart.png)
+
 
 ## 3.0 Results
 ### 3.1 Theater Outcomes by Launch Date
