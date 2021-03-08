@@ -37,7 +37,7 @@ A pivot table was created to display the outcome of the theaters based off of th
 The main challenges faced in this, was sorting the outcomes in descending order. 
 
 ### 2.2 Outcomes Based on Goals
-The analysis for "Outcomes Based on Goals" was created by creating a table in a new sheet by listing out the column and row headers.  The table was populated with the count of each "successful", "failed", and "canceled" play for each 5000 goal range using the following formula:
+The analysis for "Outcomes Based on Goals" was created by creating a table in a new sheet by listing out the column and row headers.  The table was populated with the count of each "successful", "failed", and "canceled" plays in $5,000 intervals using the following formula:
 
 `=COUNTIFS("Goal_Column">=1000","Goal_Column","<5000","Subcategory_Column","plays","Outcome_Column","successful")`
 
