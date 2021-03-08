@@ -13,6 +13,7 @@ Performing analysis on Kickstarter data to uncover trends
   * 3.2 Outcomes Based on Goals
 - [4.0 Resources](#Resources)
 
+<a name="Introduction"></a>
 ## 1.0 Introduction
 
 ### 1.1 Purpose
@@ -23,7 +24,7 @@ The purpose of this analysis is to be able to identify the amount of plays that 
 - Excel
   - Pivot Tables
   - Line Chart
-  - 
+ 
 <a name="Analysis-and-Challenges"></a>
 ## 2.0 Analysis and Challenges
 ### 2.1 Theater Outcomes by Launch Date
@@ -44,7 +45,7 @@ The totals were converted to percentages to be able to compare the goal ranges o
 The main challenges were copying the row ranges correctly into the Excel file.  Initially a row was missed, which caused the sum of two goal ranges to be combined, which caused the interval to change. Another challenge was having the correct "Countifs" statement written.  After refrencing a exceljet I was able to properly formulate the formula with multiple conditions.  
 ![alt test](Resources/Outcomes_Goals_Chart.png)
 
-
+<a name="Results"></a>
 ## 3.0 Results
 ### 3.1 Theater Outcomes by Launch Date
 The peak months, April to August, are when the most theaters met or exceeded their goal. The maximum number of plays is in the month of May, and the ratio of successful vs failed is also the greatest in May and June.  From 2009 - 2013 all the plays were successful and then there is a sharp increase in the total number of plays after that.
@@ -57,6 +58,6 @@ The successful vs failed plays has an inverse relationship when split into goal 
 ![alt test](Resources/Outcomes_vs_Goals.png)
 
 The data has limitations as the currency for each goal varies globally, and the data was not coverted into a standard currency to properly compare the range of successful, failed, and canceled plays.  The data could be dispalyed in a stacked percentage bar chart, or multiple pie charts. 
-
+<a name="Resources"></a>
 ## 4.0 Resources
 exceljet.net - learn how to write a countifs statement
