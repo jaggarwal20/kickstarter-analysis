@@ -34,7 +34,7 @@ The analysis for “Theater Outcomes by Launch Date” was created by first edit
 
 A pivot table was created to display the outcome of the theaters based off of the month that they were launched.This way you can filter on the year the theater was launched to see if there is a trend in the data, as well as to see if there is an overall trend over the years.   
 ![alt text](Resources/Pivot_Table.png)
-The main challenges faced in this, was sorting the outcomes in descending order. 
+The main challenges faced in this, was sorting the outcomes in descending order. This was overcome by googling how to sort rows in a pivot table, and confirming the if the proper actions were taken by comparing the work to the challenge in the bootcamp course page.
 
 ### 2.2 Outcomes Based on Goals
 The analysis for "Outcomes Based on Goals" was created by creating a table in a new sheet by listing out the column and row headers.  The table was populated with the count of each "successful", "failed", and "canceled" plays in $5,000 intervals. Below is an example of the Countifs formula used.
@@ -60,4 +60,5 @@ The percentage of successful vs failed plays has an inverse relationship when sp
 The data has limitations as the currency for each goal varies globally, and the data was not coverted into a standard currency to properly compare the range of successful, failed, and canceled plays.  The data could be dispalyed in a stacked percentage bar chart, or multiple pie charts. 
 <a name="Resources"></a>
 ## 4.0 Resources
-exceljet.net - learn how to write a countifs statement
+exceljet.net - how to write a countifs statement
+support.microsoft.com - how to sort columns and rows in a pivot table
