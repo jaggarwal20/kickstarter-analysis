@@ -41,9 +41,9 @@ The analysis for "Outcomes Based on Goals" was created by creating a table in a 
 
 `=COUNTIFS("Goal_Column">=1000","Goal_Column","<5000","Subcategory_Column","plays","Outcome_Column","successful")`
 
-The totals of "successful", "failed", and "canceled" plays were converted to percentages to be able to compare the goal ranges on a common scale. 
-The main challenges were copying the row ranges correctly into the Excel file.  Initially a row was missed, which caused the sum of two goal ranges to be combined.  This caused the step interval to change. Another challenge was having the correct "Countifs" statement written.  After refrencing a exceljet I was able to properly formulate the formula with multiple conditions, as the formatting is different than an "If" statement.  
+The totals of "successful", "failed", and "canceled" plays were converted to percentages to be able to compare the goal ranges on a common scale.   
 ![alt test](Resources/Outcomes_Goals_Chart.png)
+The main challenges were copying the row ranges correctly into the Excel file.  Initially a row was missed, which caused the sum of two goal ranges to be combined.  This caused the step interval to change. Another challenge was having the correct "Countifs" statement written.  After refrencing a exceljet I was able to properly formulate the formula with multiple conditions, as the formatting is different than an "If" statement.
 
 <a name="Results"></a>
 ## 3.0 Results
