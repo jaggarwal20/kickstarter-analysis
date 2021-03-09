@@ -32,7 +32,7 @@ The analysis for “Theater Outcomes by Launch Date” was created by first edit
 
 `=((("Unix Date"/60)/60)/24)+DATE(1970,1,1)`. 
 
-A pivot table was created to display the outcome of the theaters based off of the month that they were launched.This way you can filter on the year the theater was launched to see if there is a trend in the data, as well as to see if there is an overall trend over the years.   
+A pivot table was created to display the outcome of the theaters based off of the month that they were launched. This way you can filter on the year the theater was launched to see if there is a trend in the data, as well as to see if there is an overall trend over the years.   
 ![alt text](Resources/Pivot_Table.png)
 The main challenges faced in this, was sorting the outcomes in descending order. This was overcome by googling how to sort rows in a pivot table, and confirming the if the proper actions were taken by comparing the work to the challenge in the bootcamp course page.
 
